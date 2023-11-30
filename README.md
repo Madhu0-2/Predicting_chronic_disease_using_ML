@@ -1,9 +1,9 @@
 # Automated Disease Prediction System
-## Contributers
-- M. Madhu Sravanthi
-- U. V. Sree Harsha
-- K. Nikitha
+## Contributers: Hilarious HUMaNS Team
 - H. Uma Shankar
+- U. V. Sree Harsha
+- M. Madhu Sravanthi
+- Nikitha. K
 - Sanjana D
 ## Problem Statement
 
