@@ -18,4 +18,5 @@ This is the file which consist of dataset and there are various differnt algorit
 - Random Forest
 - KNearestNeighbour
 - Naive Bayes
+
 These four algorithms is used to train our model and all gives an accuracy of over 90
