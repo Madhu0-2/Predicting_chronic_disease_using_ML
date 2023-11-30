@@ -23,7 +23,8 @@ These four algorithms is used to train our model and all gives an **accuracy of 
 ## Dataset
 The dataset for this problem used with the `Machine_learning.py` script is downloaded from here:
 
-`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`
+<clipboard-copy value=`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`>Copy</clipboard-copy>
+
 ## training.csv
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 ## testing.csv
@@ -37,4 +38,4 @@ The dataset for this problem used with the `Machine_learning.py` script is downl
 Also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute.
 
 ## GUI
-![My Image](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/raw/master/GUI/GUI.PNG)
+![My Image](https://github.com/Madhu0-2/Predicting_chronic_disease_using_ML/blob/main/GUI/gui.png?raw=true)
