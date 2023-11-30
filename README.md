@@ -37,4 +37,4 @@ The dataset for this problem used with the `Machine_learning.py` script is downl
 Also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute.
 
 ## GUI
-![My Image](gui.jpg)
+![My Image](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/raw/master/GUI/GUI.PNG)
