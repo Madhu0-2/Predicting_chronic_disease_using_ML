@@ -1,1 +1,1 @@
-# Predicting_chronic_disease_using_ML
+# Predicting Chronic Disease using ML
