@@ -62,7 +62,7 @@ def Exit():
 w2 = Label(root, justify=LEFT, text="Disease Predictor using Machine Learning", fg="Red", bg="Ivory")
 w2.config(font=("Times",30,"bold italic"))
 w2.grid(row=1, column=0, columnspan=2, padx=100)
-w2 = Label(root, justify=LEFT, text="Contributors: Sudhanshu,Rohan,Aditya", fg="Pink", bg="Ivory")
+w2 = Label(root, justify=LEFT, text="Contributors: Madhu, Harsha, Nikitha, Uma Shankar, Sanjana", fg="Pink", bg="Ivory")
 w2.config(font=("Times",30,"bold italic"))
 w2.grid(row=2, column=0, columnspan=2, padx=100)
 
