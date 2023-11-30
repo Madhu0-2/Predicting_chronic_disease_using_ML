@@ -19,4 +19,9 @@ This is the file which consist of dataset and there are various differnt algorit
 - KNearestNeighbour
 - Naive Bayes
 
-These four algorithms is used to train our model and all gives an accuracy of over 90
+These four algorithms is used to train our model and all gives an **accuracy of over 90**
+## About Data
+## training.csv
+- This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
+## testing.csv
+- This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
