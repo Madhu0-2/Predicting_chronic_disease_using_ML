@@ -12,7 +12,8 @@ Health information needs are also changing the information seeking behavior and 
 - To save the time required and also money for initial process of diagnosis symptoms, this project proposes an **Automated Disease Prediction System** that relies on user input.
 - The system takes input from user and provides a list of probable diseases.
 ## Project Overview
-In this Project we tried to unleash useful insights using this datasets and performed feature selection to build Automated Disease Prediction model by combining the power of best performing machine learning algorithms
+In this Project we tried to unleash useful insights using this datasets and performed feature selection to build Automated Disease Prediction model by combining the power of best performing machine learning algorithms.
+
 This is the file which consist of dataset and there are various differnt algorithms used for training of our model which are as follows:
 - Decision Tree
 - Random Forest
@@ -23,7 +24,7 @@ These four algorithms is used to train our model and all gives an **accuracy of 
 ## Dataset
 The dataset for this problem used with the `Machine_learning.py` script is downloaded from here:
 
-`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`>
+`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`
 
 ## training.csv
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
@@ -40,4 +41,4 @@ Also reccommend to install Anaconda, a pre-packaged Python distribution that con
 ## GUI
 ![My Image](https://github.com/Madhu0-2/Predicting_chronic_disease_using_ML/blob/main/GUI/gui.png?raw=true)
 
-## NOTE: *This project is for demo purposes only. For any symptoms/disease, please refer to a Doctor.*
+#### NOTE: *This project is for demo purposes only. For any symptoms/disease, please refer to a Doctor.*
