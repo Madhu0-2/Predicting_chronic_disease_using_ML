@@ -33,4 +33,8 @@ The dataset for this problem used with the `Machine_learning.py` script is downl
 - [Pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
+
 Also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute.
+
+## GUI
+![My Image](gui.jpg)
