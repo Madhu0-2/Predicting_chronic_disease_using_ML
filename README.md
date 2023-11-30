@@ -1,6 +1,6 @@
 # Automated Disease Prediction System
 ## Contributers
-- Madhu Sravanthi.M
+- M. Madhu Sravanthi
 - U. V. Sree Harsha
 - K. Nikitha
 - H. Uma Shankar
