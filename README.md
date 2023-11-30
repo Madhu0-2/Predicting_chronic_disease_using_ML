@@ -1,4 +1,4 @@
-# Predicting Chronic Disease by taking Symptoms as Input using Machine Learning
+# Automated Disease Prediction System
 ## Contributers
 - Madhu Sravanthi.M
 - U. V. Sree Harsha
