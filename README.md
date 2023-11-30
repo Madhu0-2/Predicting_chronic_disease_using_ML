@@ -20,10 +20,16 @@ This is the file which consist of dataset and there are various differnt algorit
 - Naive Bayes
 
 These four algorithms is used to train our model and all gives an **accuracy of over 90**
-## About Data
+## Dataset
+The dataset for this problem used with the Machine_learning.py script is downloaded from here:
+(https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning)
 ## training.csv
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 ## testing.csv
 - This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
 ## Installations :
 - [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+Also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute.
