@@ -25,3 +25,5 @@ These four algorithms is used to train our model and all gives an **accuracy of 
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 ## testing.csv
 - This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
+## Installations :
+- [Numpy](https://numpy.org/)
