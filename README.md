@@ -30,6 +30,8 @@ The dataset for this problem used with the `Machine_learning.py` script is downl
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 ## Testing.csv
 - This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
+## Code
+Actual code to get started with the project is provided in two files,`machine_learning.ipynb` and `Machine_learning.py`
 ## Installations :
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
