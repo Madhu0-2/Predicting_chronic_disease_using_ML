@@ -1,5 +1,5 @@
 # Predicting Chronic Disease by taking Symptoms as Input using Machine Learning
-## contributers
+## Contributers
 - Madhu Sravanthi.M
 - U. V. Sree Harsha
 - K. Nikitha
@@ -12,4 +12,10 @@ Health information needs are also changing the information seeking behavior and 
 - To save the time required and also money for initial process of diagnosis symptoms, this project proposes an **Automated Disease Prediction System** that relies on user input.
 - The system takes input from user and provides a list of probable diseases.
 ## Project Overview
-
+In this Project we tried to unleash useful insights using this datasets and performed feature selection to build Automated Disease Prediction model by combining the power of best performing machine learning algorithms
+This is the file which consist of dataset and there are various differnt algorithms used for training of our model which are as follows:
+- Decision Tree
+- Random Forest
+- KNearestNeighbour
+- Naive Bayes
+These four algorithms is used to train our model and all gives an accuracy of over 90
