@@ -23,7 +23,7 @@ These four algorithms is used to train our model and all gives an **accuracy of 
 ## Dataset
 The dataset for this problem used with the `Machine_learning.py` script is downloaded from here:
 
-copyCodeBlock(`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`)
+`https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning`
 ## training.csv
 - This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 ## testing.csv
